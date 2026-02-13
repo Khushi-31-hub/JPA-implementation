@@ -1,0 +1,10 @@
+✅ Requirements Checklist (All Satisfied)
+
+✔ Each entity annotated with @Entity
+✔ Each ID auto-generated
+✔ Each field has column or relationship annotation
+✔ Constructors provided
+✔ Getters and setters provided
+✔ No setter for ID fields
+✔ Proper One-to-Many, Many-to-One, and One-to-One relationships
+✔ Cascade and orphan removal included for proper lifecycle management
